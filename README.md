@@ -6,7 +6,7 @@ DOM XSS
 Download the Simditor source code.
 --
 ---------------------------------------------------------------------
-We just need this three js,you can use my sample code or download from https://github.com/mycolorway/simditor.
+We just need this three js.
 ![image](https://github.com/hkglue/simditor_demo/blob/master/images/js.jpg)
 --
 
@@ -28,7 +28,6 @@ Edit a HTML FILE
 </body>
 </html>
 ```
---
 
 Open the HTML in any browser.
 --
