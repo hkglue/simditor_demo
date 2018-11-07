@@ -5,7 +5,7 @@ DOM XSS
 
 Download the Simditor source code.
 --
-We just need this three js.
+*We just need this three js,you can use my sample code or download from https://github.com/mycolorway/simditor.
 ![image](https://github.com/hkglue/simditor_demo/blob/master/images/js.jpg)
 --
 
@@ -31,6 +31,6 @@ Edit a HTML FILE
 
 Open the HTML in any browser.
 --
-This is in my chrome，THE XSS PAYLOAD IS EXECUTE !
+*This is in my chrome，THE XSS PAYLOAD IS EXECUTE !
 ![image](https://github.com/hkglue/simditor_demo/blob/master/images/example.jpg)
 --
