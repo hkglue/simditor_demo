@@ -30,7 +30,6 @@ We just need this three js.
 
 ##Open the HTML in any browser.
 ```Thiis is in my chrome
-This is in my chrome
-THE XSS PAYLOAD IS EXECUTE !
+This is in my chrome，THE XSS PAYLOAD IS EXECUTE !
 ```
-![image](https://github.com/hkglue/simditor_demo/blob/master/images/exmaple.jpg)
+![image](https://github.com/hkglue/simditor_demo/blob/master/images/example.jpg)
