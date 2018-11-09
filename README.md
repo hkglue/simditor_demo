@@ -3,7 +3,7 @@ https://github.com/mycolorway/simditor
 DOM XSS
 
 
-Download the Simditor source code.
+Download the Simditor source code(<=2.3.21).
 --
 We just need this three js.
 ![image](https://github.com/hkglue/simditor_demo/blob/master/images/js.jpg)
